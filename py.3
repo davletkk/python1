@@ -1,0 +1,4 @@
+x=2
+y=1
+z=pow(pow(x,y),x)+pow(x,pow(x,y))-pow(x,4)
+print(z)
