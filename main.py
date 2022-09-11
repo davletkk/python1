@@ -1,0 +1,6 @@
+z=input("Your last name, first name:")
+x=input("How old are you ?"+" ")
+c=input("Where do you live ?"+" ")
+print("youe name"+" "+z)
+print('Your age'+" "+x)
+print("Your live in"+" "+c)
